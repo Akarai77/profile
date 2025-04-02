@@ -1,0 +1,8 @@
+1. Download the necessary modules (requirements.txt)
+2. Create a flask app(app.py)
+3. Create an assets and templates folder
+4. Download a bootstrap CV template and copy the index.html to templates folder and xopy the assets to assets folder
+5. Create a remote git repo and initialize a local repo and add the remote repo to the local repo
+6. Add and commit all files
+7. Push the files
+8. Host on Render
